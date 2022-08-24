@@ -1,0 +1,9 @@
+# vscode
+.vscode/
+
+# Compile and link files
+*/Listings
+*/Objects
+
+# Configration files of Keil5 project
+*/*.uv*
